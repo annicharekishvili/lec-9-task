@@ -1,0 +1,10 @@
+@media only screen and (max-width: 820px) {
+  .main-content {
+    flex-direction: column;
+  }
+
+  .right-side {
+    flex-direction: column;
+    width: 100%;
+  }
+}
